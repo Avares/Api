@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tomke\\source\\repos\\Api\\Api\\Api.csproj": {}
+    "D:\\Praca\\Api\\Api\\Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tomke\\source\\repos\\Api\\Api.Data\\Api.Data.csproj": {
+    "D:\\Praca\\Api\\Api.Data\\Api.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tomke\\source\\repos\\Api\\Api.Data\\Api.Data.csproj",
+        "projectUniqueName": "D:\\Praca\\Api\\Api.Data\\Api.Data.csproj",
         "projectName": "Api.Data",
-        "projectPath": "C:\\Users\\Tomke\\source\\repos\\Api\\Api.Data\\Api.Data.csproj",
+        "projectPath": "D:\\Praca\\Api\\Api.Data\\Api.Data.csproj",
         "packagesPath": "C:\\Users\\Tomke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tomke\\source\\repos\\Api\\Api.Data\\obj\\",
+        "outputPath": "D:\\Praca\\Api\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\Tomke\\source\\repos\\Api\\Api\\Api.csproj": {
+    "D:\\Praca\\Api\\Api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tomke\\source\\repos\\Api\\Api\\Api.csproj",
+        "projectUniqueName": "D:\\Praca\\Api\\Api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "C:\\Users\\Tomke\\source\\repos\\Api\\Api\\Api.csproj",
+        "projectPath": "D:\\Praca\\Api\\Api\\Api.csproj",
         "packagesPath": "C:\\Users\\Tomke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tomke\\source\\repos\\Api\\Api\\obj\\",
+        "outputPath": "D:\\Praca\\Api\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -98,8 +98,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Tomke\\source\\repos\\Api\\Api.Data\\Api.Data.csproj": {
-                "projectPath": "C:\\Users\\Tomke\\source\\repos\\Api\\Api.Data\\Api.Data.csproj"
+              "D:\\Praca\\Api\\Api.Data\\Api.Data.csproj": {
+                "projectPath": "D:\\Praca\\Api\\Api.Data\\Api.Data.csproj"
               }
             }
           }

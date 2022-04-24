@@ -458,11 +458,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tomke\\source\\repos\\Api\\Api\\Api.Data\\Api.Data.csproj",
+      "projectUniqueName": "D:\\Praca\\Api\\Api.Data\\Api.Data.csproj",
       "projectName": "Api.Data",
-      "projectPath": "C:\\Users\\Tomke\\source\\repos\\Api\\Api\\Api.Data\\Api.Data.csproj",
+      "projectPath": "D:\\Praca\\Api\\Api.Data\\Api.Data.csproj",
       "packagesPath": "C:\\Users\\Tomke\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tomke\\source\\repos\\Api\\Api\\Api.Data\\obj\\",
+      "outputPath": "D:\\Praca\\Api\\Api.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
