@@ -13,7 +13,7 @@ namespace Api.Data.Repository
     public class ToDoRepository : IToDo
     {
         private static string ab = System.Reflection.Assembly.GetExecutingAssembly().Location;
-        private static string ac = ab.Substring(0,ab.IndexOf(@"Api.Data\Repository\ToDoDb.mdf"));
+        private static string ac = ab.Substring(0,ab.IndexOf(@"Api\bin\Debug\net5.0\Api.Data.dll"));
         private static readonly string connectionStr = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=" + ac + @"Api.Data\Repository\ToDoDb.mdf;Integrated Security=True";
         SqlConnection con = new SqlConnection(connectionStr);
 
